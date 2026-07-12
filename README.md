@@ -1,15 +1,16 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C853,100:0d1117&height=200&section=header&text=Abaid%20Ullah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Developer%20%7C%20Vibe%20Coder%20%7C%20Top%20Performer%20%F0%9F%8F%86&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C853,100:0d1117&height=200&section=header&text=Abaid%20Ullah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Developer%20%7C%20Backend%20Engineer%20%7C%20Top%20Performer%20%F0%9F%8F%86&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Generative+AI+Application+Developer+%F0%9F%A4%96;Full-Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;Vibe+Coder+%7C+Shipping+Fast+%E2%9A%A1;Cybersecurity+%26+Linux+Enthusiast+%F0%9F%94%90;Compiler+Builder+%7C+DSA+%7C+OOP+Craftsman+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Generative+AI+Application+Developer+%F0%9F%A4%96;Backend+%26+Mobile+App+Developer+%F0%9F%93%B1;Vibe+Coder+%7C+Shipping+Fast+%E2%9A%A1;Cybersecurity+%26+Linux+Enthusiast+%F0%9F%94%90;Compiler+Builder+%7C+DSA+%7C+OOP+Craftsman+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <br/>
 
 **Certified Generative AI Developer** building intelligent tools at the intersection of AI, web, and mobile engineering.
-I turn ideas into production-ready applications — from ECO-friendly AI bots to compilers — with clean code and real impact.
+I turn ideas into production-ready applications — from scalable backend architectures to ECO-friendly AI bots — with clean code and real impact.
 
 <br/>
 
@@ -21,7 +22,7 @@ I turn ideas into production-ready applications — from ECO-friendly AI bots to
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 ```python
 class AbaidUllah:
@@ -29,16 +30,18 @@ class AbaidUllah:
     username   = "Abaidullah9"
     location   = "Pakistan 🇵🇰"
     
-    roles      = ["Generative AI Developer", "Mobile App Developer",
-                  "Frontend Developer", "Cybersecurity Enthusiast", "Vibe Coder ⚡"]
+    workplace  = "Backend Intern @ Tracking KSA (Quaid Ventures)"
+    
+    roles      = ["Generative AI Developer", "Backend Developer",
+                  "Mobile App Developer", "Cybersecurity Enthusiast", "Vibe Coder ⚡"]
     
     currently  = ["Building AI-powered web & mobile tools",
-                  "Deepening expertise in GenAI & LLM integrations",
+                  "Architecting highly scalable Node.js/TypeScript APIs",
                   "Vibe coding — shipping fast, iterating faster"]
     
     certified  = "Top Performer @ Pak Angels Generative AI Training (2025) 🏆"
     
-    ask_me     = ["AI/ML", "Flutter", "C/C++", "Prompt Engineering",
+    ask_me     = ["Node.js/Express", "AI/ML", "Flutter", "TypeScript",
                   "Cybersecurity", "Compiler Construction"]
     
     fun_fact   = "I build things that actually solve problems. Always. 🔥"
@@ -51,10 +54,10 @@ class AbaidUllah:
 <div align="center">
 
 ### 🗣️ Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,dart,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,dart,html,css,md&theme=dark" />
 
 ### 📦 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=flutter,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flutter,dotnet&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -67,6 +70,7 @@ class AbaidUllah:
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-0277BD?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A0DAD?style=flat-square&logo=openai&logoColor=white)
+![Backend Dev](https://img.shields.io/badge/Backend_Engineering-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-00C853?style=flat-square&logo=lightning&logoColor=white)
 ![Mobile Dev](https://img.shields.io/badge/Mobile_App_Dev-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Frontend_Dev-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -92,8 +96,6 @@ class AbaidUllah:
 
 <img src="https://streak-stats.demolab.com?user=Abaidullah9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853" width="60%"/>
 
-
-
 </div>
 
 ---
@@ -109,11 +111,13 @@ class AbaidUllah:
 
 ## 🔭 What I'm Up To
 
+- 🏢 &nbsp;Working as a **Backend Intern** at [Tracking KSA](https://www.tracking.me/) (part of [Quaid Ventures](https://quaidventures.com/))
+- 💻 &nbsp;Architecting **Enterprise-grade Backends** — shipping an advanced [Project Management API](https://github.com/Abaidullah9/To-Do-Backend) with Node.js, TypeScript, and granular RBAC
 - 🔭 &nbsp;Building **AI-powered web & mobile tools** — expanding [Tools-For-Web](https://github.com/Abaidullah9/Tools-For-Web) & [ECO-Friendly-Advisor-AI-Bot](https://github.com/Abaidullah9/ECO-Friendly-Advisor-AI-Bot)
-- 🌱 &nbsp;Deepening expertise in **Generative AI, LLM integrations, Flutter & Cybersecurity**
+- 🌱 &nbsp;Deepening expertise in **Generative AI, Node.js Architectures, Flutter & Cybersecurity**
 - 🏆 &nbsp;Awarded **Top Performer** at Pak Angels Generative AI Training — [view certification](https://www.linkedin.com/posts/abaidullah-bhatti-579b98290_generativeai-artificialintelligence-machinelearning-share-7366531538001244161-sS4k/)
 - ⚡ &nbsp;**Vibe coding** — shipping fast, iterating faster, breaking things intentionally
-- 💬 &nbsp;Ask me about **AI/ML, Flutter, C/C++, Prompt Engineering, Cybersecurity, Compiler Construction**
+- 💬 &nbsp;Ask me about **AI/ML, Node.js, TypeScript, Flutter, C/C++, Cybersecurity, Compiler Construction**
 - 😄 &nbsp;Fun fact: I build things that actually solve problems — and I never stop until they do
 
 ---
