@@ -14,9 +14,10 @@ I turn ideas into production-ready applications — from scalable backend archit
 
 <br/>
 
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-abaid--ullah--portfolio.onrender.com-00C853?style=for-the-badge&labelColor=0d1117)](https://abaid-ullah-portfolio.onrender.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abaidullah9&style=for-the-badge&color=00C853&label=PROFILE+VIEWS)](https://github.com/Abaidullah9)
 [![GitHub followers](https://img.shields.io/github/followers/Abaidullah9?style=for-the-badge&color=00C853&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Abaidullah9?tab=followers)
-[![Top Performer](https://img.shields.io/badge/🏆_Top_Performer-Pak_Angels_AI_2025-gold?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/posts/abaidullah-bhatti-579b98290_generativeai-artificialintelligence-machinelearning-share-7366531538001244161-sS4k/)
+[![Top Performer](https://img.shields.io/badge/🏆_Top_Performer-Pak_Angels_AI_2025-gold?style=for-the-badge&labelColor=0d1117)](https://github.com/Abaidullah9/portfolio/blob/master/public/credentials/pak-angels-genai-certificate.jpg)
 
 </div>
 
@@ -29,20 +30,21 @@ class AbaidUllah:
     name       = "Abaid Ullah"
     username   = "Abaidullah9"
     location   = "Pakistan 🇵🇰"
+    education  = "BS Computer Science (7th Sem • CGPA 3.351) @ UET Lahore"
+    portfolio  = "https://abaid-ullah-portfolio.onrender.com"
+    workplace  = "Software Engineering Intern @ Quaid Ventures (Tracking)"
     
-    workplace  = "Backend Intern @ Tracking KSA (Quaid Ventures)"
+    roles      = ["Full-Stack Engineer", "Generative AI Developer",
+                  "Compiler Lead (Litho FYP)", "Backend Specialist", "Vibe Coder ⚡"]
     
-    roles      = ["Generative AI Developer", "Backend Developer",
-                  "Mobile App Developer", "Cybersecurity Enthusiast", "Vibe Coder ⚡"]
-    
-    currently  = ["Building AI-powered web & mobile tools",
-                  "Architecting highly scalable Node.js/TypeScript APIs",
-                  "Vibe coding — shipping fast, iterating faster"]
+    currently  = ["Architecting production MERN platforms (Shop.co)",
+                  "Leading Compiler & LaTeX Engine for Litho (FYP)",
+                  "Shipping high-throughput Node.js/TypeScript APIs with Kafka & Redis"]
     
     certified  = "Top Performer @ Pak Angels Generative AI Training (2025) 🏆"
     
-    ask_me     = ["Node.js/Express", "AI/ML", "Flutter", "TypeScript",
-                  "Cybersecurity", "Compiler Construction"]
+    ask_me     = ["React/Next.js", "Node.js/Express", "PostgreSQL/Prisma", "MongoDB",
+                  "Kafka/Redis", "Compiler Construction", "AST Parsers"]
     
     fun_fact   = "I build things that actually solve problems. Always. 🔥"
 ```
@@ -111,13 +113,16 @@ class AbaidUllah:
 
 ## 🔭 What I'm Up To
 
-- 🏢 &nbsp;Working as a **Backend Intern** at [Tracking KSA](https://www.tracking.me/) (part of [Quaid Ventures](https://quaidventures.com/))
+- 🌐 &nbsp;Live Engineering Portfolio: [abaid-ullah-portfolio.onrender.com](https://abaid-ullah-portfolio.onrender.com) (Curated systems registry & interactive CLI)
+- 🏢 &nbsp;Completed **Software Engineering Internship** at [Quaid Ventures](https://quaidventures.com/) / [Tracking](https://www.tracking.me/) — [view verified letter](https://github.com/Abaidullah9/portfolio/blob/master/public/credentials/quaid-ventures-experience-letter.png) & [certificate](https://github.com/Abaidullah9/portfolio/blob/master/public/credentials/tracking-internship-certificate.png)
+- 🎓 &nbsp;Compiler & Backend Lead for **Litho (Final Year Project)** — [Curated Template Marketplace](https://litho-template-marketplace.onrender.com/Litho-Template-Marketplace/index.html)
+- 🛒 &nbsp;Creator of **Shop.co** — Production MERN E-Commerce platform live at [shop-co-rust-phi.vercel.app](https://shop-co-rust-phi.vercel.app/)
 - 💻 &nbsp;Architecting **Enterprise-grade Backends** — shipping an advanced [Project Management API](https://github.com/Abaidullah9/To-Do-Backend) with Node.js, TypeScript, and granular RBAC
 - 🔭 &nbsp;Building **AI-powered web & mobile tools** — expanding [Tools-For-Web](https://github.com/Abaidullah9/Tools-For-Web) & [ECO-Friendly-Advisor-AI-Bot](https://github.com/Abaidullah9/ECO-Friendly-Advisor-AI-Bot)
-- 🌱 &nbsp;Deepening expertise in **Generative AI, Node.js Architectures, Flutter & Cybersecurity**
-- 🏆 &nbsp;Awarded **Top Performer** at Pak Angels Generative AI Training — [view certification](https://www.linkedin.com/posts/abaidullah-bhatti-579b98290_generativeai-artificialintelligence-machinelearning-share-7366531538001244161-sS4k/)
+- 🌱 &nbsp;Deepening expertise in **Generative AI, Node.js Architectures, Kafka/Redis & Cybersecurity**
+- 🏆 &nbsp;Awarded **Top Performer** at Pak Angels Generative AI Training (Silicon Valley) — [view verified certificate](https://github.com/Abaidullah9/portfolio/blob/master/public/credentials/pak-angels-genai-certificate.jpg)
 - ⚡ &nbsp;**Vibe coding** — shipping fast, iterating faster, breaking things intentionally
-- 💬 &nbsp;Ask me about **AI/ML, Node.js, TypeScript, Flutter, C/C++, Cybersecurity, Compiler Construction**
+- 💬 &nbsp;Ask me about **React/Next.js, Node.js, TypeScript, PostgreSQL, MongoDB, Compilers, Cybersecurity**
 - 😄 &nbsp;Fun fact: I build things that actually solve problems — and I never stop until they do
 
 ---
@@ -126,9 +131,10 @@ class AbaidUllah:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=render&logoColor=white)](https://abaid-ullah-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abaidullah-bhatti-579b98290)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abaidullah9)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abaidullah@example.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abaidullah99999@gmail.com)
 
 </div>
 
